@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+.madre {
+	width:600px;
+	border: 1px solid gray;
+
+}
+.uno {
+	width: 25%;
+	height:100px;
+	background-color: #FFFF00;
+	float:left;
+}
+.dos {
+	width: 25%;
+	height:100px;
+	background-color: #3A81BA;
+	float:left;
+}
+.tres {
+	width: 25%;
+	height:100px;
+	background-color: #ED2251;
+	float:left;
+}
